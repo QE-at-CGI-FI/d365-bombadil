@@ -1,0 +1,13 @@
+{
+  "name": "d365-bombadil",
+  "private": true,
+  "description": "Bombadil property-based UI testing against D365 Finance & Operations",
+  "scripts": {
+    "test": "bombadil/run.sh rel",
+    "test:rel": "bombadil/run.sh rel",
+    "test:build": "bombadil/run.sh build"
+  },
+  "devDependencies": {
+    "@antithesishq/bombadil": "^0.7.7"
+  }
+}

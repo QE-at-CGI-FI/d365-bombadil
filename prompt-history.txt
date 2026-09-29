@@ -1,0 +1,3 @@
+ Let's use login information available for .env/.env.rel and create a default properties only tests set with bombadil:                   
+  https://antithesishq.github.io/bombadil/index.html. You can use playwright-cli to take a look at both bombadil and the test app to make 
+  sense of what to include.  
